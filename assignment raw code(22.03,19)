@@ -1,0 +1,346 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!--Font Awsome CDN Link-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+    <!--Theam CSS File-->
+    <link rel="stylesheet"  href="css/style.css">
+
+    <title>Plambing Solution!</title>
+  </head>
+
+
+
+
+  <body>
+<!--Banner section Start-->
+    <section class="banner">
+      <div class="container">
+        <div class="row">
+           <img src="image/1.jpg" alt="about" class="image-fluid">
+            <nav class="navbar navbar-expand-lg navbar-danger "> 
+                <ul class="navbar-nav mr-auto  justify-content-left">
+                        <li class="nav-item">
+                          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="#">About</a>
+                        </li>
+                         <li class="nav-item">
+                          <a class="nav-link" href="#">Service</a>
+                        </li>
+                         <li class="nav-item">
+                          <a class="nav-link" href="#">Portfolio</a>
+                        </li>
+                         <li class="nav-item">
+                          <a class="nav-link" href="#">News</a>
+                        </li>
+                         <li class="nav-item">
+                          <a class="nav-link" href="#">Contact</a>
+                        </li>
+                </ul>
+            </nav>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="row">
+          <div class="banner-contant">
+              <h4>We are available for</h4>
+              <h1>Emargenccy Plumbing Solution</h1>
+              <p>We are open 24/7//365 because plambing<br> emargencyes don't wait</p>
+          </div>
+        </div>
+      </div>
+    </section>
+<!--Banner section End-->
+
+<!--About section Start-->
+    <section class="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <img src="image/1.jpg" alt="about" class="image-fluid">
+          </div>
+          <div class="col-lg-6">
+            <div class="about-contant">
+                <h2>About me</h2>
+                <h3>Hi I'm Shuvro</h3>
+                <p>Right now i am in BSC Engg in CSE.I am in 3rd year . I got two time national award for story writing. Beside it  now a days I tried to write story for short film . But not for fame. The reasion is  I always wanted to be self-depended. That's why I wrote down some story and sold it to others. Alwas try to help my family though they don't need any thing from me. but it makes me happy to do such this type of things.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  <!--About section End-->
+
+<!--Our features section start-->
+    <section class="feature">
+      <div class="container">
+        <div class="row">
+          <div class="col-4">
+            <div>
+              <h2>Our Features</h2>
+              <div class="row">
+                <div class="col-4">
+                  <a href="#"><i class="fas fa-cogs"></i></a>
+                </div>
+
+                <div class="col-8">
+                  <h4>Comercial Plumbing</h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                  tempor incididunt ut labore et dolore magna aliqua.</p>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-4">
+                  <a href="#"><i class="fas fa-couch"></i></i></a>
+                </div>
+
+                <div class="col-8">
+                  <h4>Residential Plambing</h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                  tempor incididunt ut labore et dolore magna aliqua.</p>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-4">
+                  <a href="#"><i class="fas fa-bath"></i></a>
+                </div>
+
+                <div class="col-8">
+                  <h4>Leakage Prevention</h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                  tempor incididunt ut labore et dolore magna aliqua.</p>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="col-8">
+            <div>
+              <h2>Our Features</h2>
+
+              <!--Dropdown section start-->
+              <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Dropdown button
+                </button>
+               <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                  <a class="dropdown-item" href="#">Action</a>
+                  <a class="dropdown-item" href="#">Another action</a>
+                  <a class="dropdown-item" href="#">Something else here</a>
+               </div>
+              </div>
+              <!--Dropdown section start-->
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+              quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+              consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+              cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+              proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+              <button type="button" class="btn btn-primary btn-block ml-auto">What is my turms and condition before start work?</button>
+              <button type="button" class="btn btn-primary btn-block">How do get for me?</button>
+              <button type="button" class="btn btn-primary btn-block">What is costing calculation and payment process?</button>
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--Our features section end-->
+
+ <!--Post section start-->
+    <section class="post">
+        <div class="row">
+          <div class="col-4 emargency">
+            <h2> <span>We Arrive One Time Every <br> Time</span></h2>
+            <div class="post-contant">
+            <div>
+              <h3>Emargency service</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. </p>
+            </div>
+            <div>
+              <h3>Emargency service</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. </p>
+            </div>
+            <div>
+              <h3>Emargency service</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+              tempor incididunt ut labore et dolore magna aliqua. </p>
+            </div>
+          </div>
+          </div>
+          <div class="col-8">
+            <img src="image/11.jpg" alt="Emargency image" class="img-fluid">
+          </div>
+        </div>
+    </section>
+<!--Post section end-->
+
+
+     <!--Service section start-->
+    <section class="service">
+       <div class="container">
+         <div class="row">
+          <div class="service-content">
+           <h5>What I Do</h5>
+           <h1>Service</h1>
+           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+           tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+           quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+           consequat. </p>
+           </div>
+
+          
+           <div class="col-4">
+            <a href="#"><i class="fas fa-bath"></i></a> <span class="service-items">Kitchen Repaires</span>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. </p>
+           </div>
+
+          
+           <div class="col-4">
+            <a href="#"><i class="fas fa-bath"></i></a> <span class="service-items">car Repaires</span>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. </p>
+           </div>
+
+          
+           <div class="col-4">
+            <a href="#"><i class="fas fa-bath"></i></a> <span class="service-items">TV Repaires</span>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. </p>
+           </div>
+
+          
+           <div class="col-4">
+            <a href="#"><i class="fas fa-bath"></i></a> <span class="service-items">AC Repaires</span>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. </p>
+           </div>
+
+          
+           <div class="col-4">
+            <a href="#"><i class="fas fa-bath"></i></a> <span class="service-items">Laptop Repaires</span>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. </p>
+           </div>
+
+          
+           <div class="col-4">
+            <a href="#"><i class="fas fa-bath"></i></a> <span class="service-items">Windows Repaires</span>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. </p>
+           </div>
+
+          
+           <div class="col-4">
+            <a href="#"><i class="fas fa-bath"></i></a> <span class="service-items">Clock Repaires</span>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. </p>
+           </div>
+
+          
+           <div class="col-4">
+            <a href="#"><i class="fas fa-bath"></i></a> <span class="service-items">yahoo recover</span>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. </p>
+           </div>
+
+          
+           <div class="col-4">
+            <a href="#"><i class="fas fa-bath"></i></a> <span class="service-items">Garden tools</span>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. </p>
+           </div>
+
+           
+          
+         </div>
+       </div>
+    </section>
+     <!--Service section end-->
+
+      <!--Portfolio section start-->
+      <section class="portfolio">
+          <div class="row">
+           
+            <div class="portfolio-content justify-content-center">
+              <h3>Portfolio</h3>
+            <h1>Recent Works</h1>
+            </div>
+          
+
+            <!--nav bar start-->
+              <nav class="navbar navbar-expand-lg navbar-light  ">  
+                  <ul class="navbar-nav m-auto ">
+                    <li class="nav-item ">
+                      <a class="nav-link" href="#">All </a>
+                    </li>
+                    <li class="nav-item ">
+                      <a class="nav-link" href="#">Branding </a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Web</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Logo Design</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link " href="#" >Photograph</a>
+                    </li>
+                  </ul>
+              </nav>
+
+          <!--nav bar end-->
+        <div class="col-3">
+          <img src="image/3.jpg" >
+        </div>
+        <div class="col-3">
+          <img src="image/4.jpg" > </div>
+        <div class="col-3">
+          <img src="image/5.jpg" > </div>
+        <div class="col-3">
+          <img src="image/6.jpg" > </div>
+        <div class="col-3">
+          <img src="image/7.jpg" > </div>
+        <div class="col-3">
+          <img src="image/8.jpg" > </div>
+        <div class="col-3">
+          <img src="image/9.jpg" > </div>
+        <div class="col-3">
+          <img src="image/10.jpg" > </div>
+        
+
+
+
+          </div>
+       
+      </section>
+
+       <!--Portfolio section end-->
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
